@@ -5,8 +5,9 @@ stylesheet, one JS file.
 
 ## Play it
 
-Open `index.html` — from a static server, from GitHub Pages, or by double-clicking the file
-in a modern browser.
+[Play it on GitHub Pages](https://todilo.github.io/pling-plong/) — or open `index.html` yourself:
+from a static server, or by double-clicking the file in a modern browser. Either way the whole
+game is one HTML file, one stylesheet, one JS file.
 
 ## Controls
 
